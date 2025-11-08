@@ -1,0 +1,450 @@
+ProjectID,MonthYear,Year,Month,BudgetAmount,ActualAmount,Variance,VariancePercentage,ProjectName,CountryID,ProjectType,Status,CountryName,Region,EmergencyLevel
+PROJ002,2023-02,2023,2,8638.51,6252.94,-2385.57,-27.62,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2023-03,2023,3,8638.51,6471.89,-2166.62,-25.08,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2023-04,2023,4,8638.51,9454.19,815.68,9.44,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2023-05,2023,5,8638.51,8976.59,338.08,3.91,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2023-06,2023,6,8638.51,7686.74,-951.77,-11.02,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2023-07,2023,7,8638.51,7398.53,-1239.98,-14.35,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2023-08,2023,8,8638.51,9518.22,879.71,10.18,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2023-09,2023,9,8638.51,7675.41,-963.1,-11.15,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2023-10,2023,10,8638.51,7423.67,-1214.84,-14.06,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2023-11,2023,11,8638.51,6725.31,-1913.2,-22.15,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2023-12,2023,12,8638.51,9392.66,754.15,8.73,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2024-01,2024,1,8638.51,8416.8,-221.71,-2.57,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2024-02,2024,2,8638.51,10862.16,2223.65,25.74,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2024-03,2024,3,8638.51,10896.97,2258.46,26.14,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2024-04,2024,4,8638.51,6095.24,-2543.27,-29.44,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2024-05,2024,5,8638.51,9266.49,627.98,7.27,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2024-06,2024,6,8638.51,8965.01,326.5,3.78,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2024-07,2024,7,8638.51,6565.17,-2073.34,-24.0,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2024-08,2024,8,8638.51,8833.57,195.06,2.26,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2024-09,2024,9,8638.51,8669.01,30.5,0.35,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2024-10,2024,10,8638.51,6733.49,-1905.02,-22.05,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2024-11,2024,11,8638.51,7855.91,-782.6,-9.06,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ002,2024-12,2024,12,8638.51,6403.51,-2235.0,-25.87,Emergency Response Initiative 2,3,Emergency Response,On Hold,Yemen,Middle East,High
+PROJ003,2023-04,2023,4,117840.13,99759.99,-18080.13,-15.34,Protection Initiative 3,2,Protection,Active,Syria,Middle East,Very High
+PROJ003,2023-05,2023,5,117840.13,102637.86,-15202.27,-12.9,Protection Initiative 3,2,Protection,Active,Syria,Middle East,Very High
+PROJ003,2023-06,2023,6,117840.13,113469.52,-4370.6,-3.71,Protection Initiative 3,2,Protection,Active,Syria,Middle East,Very High
+PROJ003,2023-07,2023,7,117840.13,120895.81,3055.69,2.59,Protection Initiative 3,2,Protection,Active,Syria,Middle East,Very High
+PROJ003,2023-08,2023,8,117840.13,103877.28,-13962.84,-11.85,Protection Initiative 3,2,Protection,Active,Syria,Middle East,Very High
+PROJ003,2023-09,2023,9,117840.13,152050.53,34210.4,29.03,Protection Initiative 3,2,Protection,Active,Syria,Middle East,Very High
+PROJ003,2023-10,2023,10,117840.13,139553.35,21713.22,18.43,Protection Initiative 3,2,Protection,Active,Syria,Middle East,Very High
+PROJ003,2023-11,2023,11,117840.13,119886.35,2046.22,1.74,Protection Initiative 3,2,Protection,Active,Syria,Middle East,Very High
+PROJ003,2023-12,2023,12,117840.13,129708.74,11868.61,10.07,Protection Initiative 3,2,Protection,Active,Syria,Middle East,Very High
+PROJ003,2024-01,2024,1,117840.13,121700.73,3860.6,3.28,Protection Initiative 3,2,Protection,Active,Syria,Middle East,Very High
+PROJ003,2024-02,2024,2,117840.13,148367.04,30526.91,25.91,Protection Initiative 3,2,Protection,Active,Syria,Middle East,Very High
+PROJ003,2024-03,2024,3,117840.13,89812.08,-28028.05,-23.78,Protection Initiative 3,2,Protection,Active,Syria,Middle East,Very High
+PROJ004,2023-11,2023,11,94732.7,116225.29,21492.59,22.69,Livelihoods Initiative 4,12,Livelihoods,Completed,Kenya,East Africa,Low
+PROJ004,2023-12,2023,12,94732.7,81345.03,-13387.67,-14.13,Livelihoods Initiative 4,12,Livelihoods,Completed,Kenya,East Africa,Low
+PROJ004,2024-01,2024,1,94732.7,116883.82,22151.12,23.38,Livelihoods Initiative 4,12,Livelihoods,Completed,Kenya,East Africa,Low
+PROJ004,2024-02,2024,2,94732.7,108511.57,13778.87,14.55,Livelihoods Initiative 4,12,Livelihoods,Completed,Kenya,East Africa,Low
+PROJ004,2024-03,2024,3,94732.7,75148.49,-19584.21,-20.67,Livelihoods Initiative 4,12,Livelihoods,Completed,Kenya,East Africa,Low
+PROJ004,2024-04,2024,4,94732.7,82327.81,-12404.89,-13.09,Livelihoods Initiative 4,12,Livelihoods,Completed,Kenya,East Africa,Low
+PROJ004,2024-05,2024,5,94732.7,78285.0,-16447.7,-17.36,Livelihoods Initiative 4,12,Livelihoods,Completed,Kenya,East Africa,Low
+PROJ004,2024-06,2024,6,94732.7,85802.07,-8930.62,-9.43,Livelihoods Initiative 4,12,Livelihoods,Completed,Kenya,East Africa,Low
+PROJ004,2024-07,2024,7,94732.7,105389.96,10657.27,11.25,Livelihoods Initiative 4,12,Livelihoods,Completed,Kenya,East Africa,Low
+PROJ004,2024-08,2024,8,94732.7,114792.13,20059.43,21.17,Livelihoods Initiative 4,12,Livelihoods,Completed,Kenya,East Africa,Low
+PROJ004,2024-09,2024,9,94732.7,95040.15,307.45,0.32,Livelihoods Initiative 4,12,Livelihoods,Completed,Kenya,East Africa,Low
+PROJ004,2024-10,2024,10,94732.7,80586.53,-14146.17,-14.93,Livelihoods Initiative 4,12,Livelihoods,Completed,Kenya,East Africa,Low
+PROJ004,2024-11,2024,11,94732.7,117932.3,23199.6,24.49,Livelihoods Initiative 4,12,Livelihoods,Completed,Kenya,East Africa,Low
+PROJ004,2024-12,2024,12,94732.7,69200.28,-25532.42,-26.95,Livelihoods Initiative 4,12,Livelihoods,Completed,Kenya,East Africa,Low
+PROJ005,2023-01,2023,1,72260.0,78082.04,5822.04,8.06,WASH Initiative 5,5,WASH,On Hold,South Sudan,East Africa,High
+PROJ005,2023-02,2023,2,72260.0,86539.22,14279.22,19.76,WASH Initiative 5,5,WASH,On Hold,South Sudan,East Africa,High
+PROJ005,2023-03,2023,3,72260.0,52493.43,-19766.58,-27.35,WASH Initiative 5,5,WASH,On Hold,South Sudan,East Africa,High
+PROJ005,2023-04,2023,4,72260.0,65043.68,-7216.32,-9.99,WASH Initiative 5,5,WASH,On Hold,South Sudan,East Africa,High
+PROJ005,2023-05,2023,5,72260.0,56253.82,-16006.18,-22.15,WASH Initiative 5,5,WASH,On Hold,South Sudan,East Africa,High
+PROJ005,2023-06,2023,6,72260.0,93062.12,20802.12,28.79,WASH Initiative 5,5,WASH,On Hold,South Sudan,East Africa,High
+PROJ005,2023-07,2023,7,72260.0,57587.55,-14672.45,-20.31,WASH Initiative 5,5,WASH,On Hold,South Sudan,East Africa,High
+PROJ005,2023-08,2023,8,72260.0,69738.22,-2521.78,-3.49,WASH Initiative 5,5,WASH,On Hold,South Sudan,East Africa,High
+PROJ005,2023-09,2023,9,72260.0,81176.92,8916.92,12.34,WASH Initiative 5,5,WASH,On Hold,South Sudan,East Africa,High
+PROJ006,2023-04,2023,4,80443.34,83383.07,2939.73,3.65,Emergency Response Initiative 6,3,Emergency Response,Active,Yemen,Middle East,High
+PROJ006,2023-05,2023,5,80443.34,61710.04,-18733.3,-23.29,Emergency Response Initiative 6,3,Emergency Response,Active,Yemen,Middle East,High
+PROJ006,2023-06,2023,6,80443.34,101924.17,21480.83,26.7,Emergency Response Initiative 6,3,Emergency Response,Active,Yemen,Middle East,High
+PROJ006,2023-07,2023,7,80443.34,89663.09,9219.75,11.46,Emergency Response Initiative 6,3,Emergency Response,Active,Yemen,Middle East,High
+PROJ006,2023-08,2023,8,80443.34,63504.59,-16938.75,-21.06,Emergency Response Initiative 6,3,Emergency Response,Active,Yemen,Middle East,High
+PROJ006,2023-09,2023,9,80443.34,58049.27,-22394.07,-27.84,Emergency Response Initiative 6,3,Emergency Response,Active,Yemen,Middle East,High
+PROJ006,2023-10,2023,10,80443.34,74130.92,-6312.42,-7.85,Emergency Response Initiative 6,3,Emergency Response,Active,Yemen,Middle East,High
+PROJ006,2023-11,2023,11,80443.34,82978.52,2535.18,3.15,Emergency Response Initiative 6,3,Emergency Response,Active,Yemen,Middle East,High
+PROJ006,2023-12,2023,12,80443.34,77054.42,-3388.91,-4.21,Emergency Response Initiative 6,3,Emergency Response,Active,Yemen,Middle East,High
+PROJ006,2024-01,2024,1,80443.34,58329.25,-22114.09,-27.49,Emergency Response Initiative 6,3,Emergency Response,Active,Yemen,Middle East,High
+PROJ006,2024-02,2024,2,80443.34,73910.61,-6532.73,-8.12,Emergency Response Initiative 6,3,Emergency Response,Active,Yemen,Middle East,High
+PROJ006,2024-03,2024,3,80443.34,101346.77,20903.43,25.99,Emergency Response Initiative 6,3,Emergency Response,Active,Yemen,Middle East,High
+PROJ006,2024-04,2024,4,80443.34,103234.37,22791.03,28.33,Emergency Response Initiative 6,3,Emergency Response,Active,Yemen,Middle East,High
+PROJ006,2024-05,2024,5,80443.34,58235.9,-22207.44,-27.61,Emergency Response Initiative 6,3,Emergency Response,Active,Yemen,Middle East,High
+PROJ006,2024-06,2024,6,80443.34,73580.36,-6862.98,-8.53,Emergency Response Initiative 6,3,Emergency Response,Active,Yemen,Middle East,High
+PROJ007,2023-06,2023,6,152590.51,169259.5,16668.99,10.92,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2023-07,2023,7,152590.51,167873.99,15283.47,10.02,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2023-08,2023,8,152590.51,139194.16,-13396.35,-8.78,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2023-09,2023,9,152590.51,158073.11,5482.59,3.59,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2023-10,2023,10,152590.51,186897.08,34306.56,22.48,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2023-11,2023,11,152590.51,195972.34,43381.82,28.43,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2023-12,2023,12,152590.51,175431.26,22840.75,14.97,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2024-01,2024,1,152590.51,191571.03,38980.51,25.55,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2024-02,2024,2,152590.51,128487.68,-24102.83,-15.8,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2024-03,2024,3,152590.51,121691.1,-30899.42,-20.25,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2024-04,2024,4,152590.51,180046.46,27455.95,17.99,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2024-05,2024,5,152590.51,123023.27,-29567.25,-19.38,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2024-06,2024,6,152590.51,144560.69,-8029.82,-5.26,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2024-07,2024,7,152590.51,123234.6,-29355.91,-19.24,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2024-08,2024,8,152590.51,191454.15,38863.64,25.47,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2024-09,2024,9,152590.51,178444.21,25853.7,16.94,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2024-10,2024,10,152590.51,144507.47,-8083.04,-5.3,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2024-11,2024,11,152590.51,168146.24,15555.73,10.19,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ007,2024-12,2024,12,152590.51,174111.04,21520.53,14.1,Education Initiative 7,6,Education,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ009,2023-07,2023,7,11534.61,9791.74,-1742.88,-15.11,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ009,2023-08,2023,8,11534.61,9176.0,-2358.61,-20.45,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ009,2023-09,2023,9,11534.61,12927.61,1393.0,12.08,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ009,2023-10,2023,10,11534.61,10721.71,-812.9,-7.05,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ009,2023-11,2023,11,11534.61,8342.23,-3192.38,-27.68,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ009,2023-12,2023,12,11534.61,11331.76,-202.85,-1.76,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ009,2024-01,2024,1,11534.61,9455.43,-2079.19,-18.03,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ009,2024-02,2024,2,11534.61,14430.62,2896.01,25.11,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ009,2024-03,2024,3,11534.61,10494.13,-1040.48,-9.02,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ009,2024-04,2024,4,11534.61,13752.97,2218.36,19.23,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ009,2024-05,2024,5,11534.61,14104.45,2569.84,22.28,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ009,2024-06,2024,6,11534.61,9617.03,-1917.58,-16.62,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ009,2024-07,2024,7,11534.61,12642.16,1107.55,9.6,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ009,2024-08,2024,8,11534.61,10831.92,-702.69,-6.09,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ009,2024-09,2024,9,11534.61,10002.38,-1532.24,-13.28,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ009,2024-10,2024,10,11534.61,8554.67,-2979.94,-25.83,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ009,2024-11,2024,11,11534.61,13426.24,1891.63,16.4,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ009,2024-12,2024,12,11534.61,10504.43,-1030.18,-8.93,Health Initiative 9,10,Health,Active,Colombia,South America,Medium
+PROJ010,2023-05,2023,5,80484.37,80938.57,454.21,0.56,Health Initiative 10,4,Health,Active,Ethiopia,East Africa,Medium
+PROJ010,2023-06,2023,6,80484.37,89153.41,8669.04,10.77,Health Initiative 10,4,Health,Active,Ethiopia,East Africa,Medium
+PROJ010,2023-07,2023,7,80484.37,97079.98,16595.61,20.62,Health Initiative 10,4,Health,Active,Ethiopia,East Africa,Medium
+PROJ010,2023-08,2023,8,80484.37,72330.49,-8153.88,-10.13,Health Initiative 10,4,Health,Active,Ethiopia,East Africa,Medium
+PROJ010,2023-09,2023,9,80484.37,57671.9,-22812.46,-28.34,Health Initiative 10,4,Health,Active,Ethiopia,East Africa,Medium
+PROJ010,2023-10,2023,10,80484.37,98691.79,18207.42,22.62,Health Initiative 10,4,Health,Active,Ethiopia,East Africa,Medium
+PROJ010,2023-11,2023,11,80484.37,68953.3,-11531.07,-14.33,Health Initiative 10,4,Health,Active,Ethiopia,East Africa,Medium
+PROJ012,2023-05,2023,5,112249.68,117677.39,5427.7,4.84,Protection Initiative 12,11,Protection,Completed,Nigeria,West Africa,High
+PROJ012,2023-06,2023,6,112249.68,144816.72,32567.04,29.01,Protection Initiative 12,11,Protection,Completed,Nigeria,West Africa,High
+PROJ012,2023-07,2023,7,112249.68,81151.39,-31098.29,-27.7,Protection Initiative 12,11,Protection,Completed,Nigeria,West Africa,High
+PROJ012,2023-08,2023,8,112249.68,118753.74,6504.06,5.79,Protection Initiative 12,11,Protection,Completed,Nigeria,West Africa,High
+PROJ012,2023-09,2023,9,112249.68,101856.74,-10392.94,-9.26,Protection Initiative 12,11,Protection,Completed,Nigeria,West Africa,High
+PROJ012,2023-10,2023,10,112249.68,131540.57,19290.88,17.19,Protection Initiative 12,11,Protection,Completed,Nigeria,West Africa,High
+PROJ015,2023-04,2023,4,57304.89,55117.92,-2186.96,-3.82,Education Initiative 15,1,Education,On Hold,Ukraine,Europe,High
+PROJ015,2023-05,2023,5,57304.89,73954.34,16649.45,29.05,Education Initiative 15,1,Education,On Hold,Ukraine,Europe,High
+PROJ015,2023-06,2023,6,57304.89,44089.66,-13215.23,-23.06,Education Initiative 15,1,Education,On Hold,Ukraine,Europe,High
+PROJ015,2023-07,2023,7,57304.89,71041.03,13736.14,23.97,Education Initiative 15,1,Education,On Hold,Ukraine,Europe,High
+PROJ015,2023-08,2023,8,57304.89,46648.89,-10656.0,-18.6,Education Initiative 15,1,Education,On Hold,Ukraine,Europe,High
+PROJ016,2023-10,2023,10,83682.41,60806.31,-22876.1,-27.34,Health Initiative 16,4,Health,On Hold,Ethiopia,East Africa,Medium
+PROJ016,2023-11,2023,11,83682.41,80471.9,-3210.52,-3.84,Health Initiative 16,4,Health,On Hold,Ethiopia,East Africa,Medium
+PROJ016,2023-12,2023,12,83682.41,84682.6,1000.19,1.2,Health Initiative 16,4,Health,On Hold,Ethiopia,East Africa,Medium
+PROJ016,2024-01,2024,1,83682.41,99072.15,15389.74,18.39,Health Initiative 16,4,Health,On Hold,Ethiopia,East Africa,Medium
+PROJ016,2024-02,2024,2,83682.41,93064.41,9381.99,11.21,Health Initiative 16,4,Health,On Hold,Ethiopia,East Africa,Medium
+PROJ016,2024-03,2024,3,83682.41,105787.78,22105.37,26.42,Health Initiative 16,4,Health,On Hold,Ethiopia,East Africa,Medium
+PROJ016,2024-04,2024,4,83682.41,95583.94,11901.53,14.22,Health Initiative 16,4,Health,On Hold,Ethiopia,East Africa,Medium
+PROJ016,2024-05,2024,5,83682.41,68470.71,-15211.7,-18.18,Health Initiative 16,4,Health,On Hold,Ethiopia,East Africa,Medium
+PROJ016,2024-06,2024,6,83682.41,80232.89,-3449.52,-4.12,Health Initiative 16,4,Health,On Hold,Ethiopia,East Africa,Medium
+PROJ016,2024-07,2024,7,83682.41,106220.15,22537.74,26.93,Health Initiative 16,4,Health,On Hold,Ethiopia,East Africa,Medium
+PROJ016,2024-08,2024,8,83682.41,104809.09,21126.67,25.25,Health Initiative 16,4,Health,On Hold,Ethiopia,East Africa,Medium
+PROJ016,2024-09,2024,9,83682.41,89865.98,6183.57,7.39,Health Initiative 16,4,Health,On Hold,Ethiopia,East Africa,Medium
+PROJ016,2024-10,2024,10,83682.41,91886.01,8203.59,9.8,Health Initiative 16,4,Health,On Hold,Ethiopia,East Africa,Medium
+PROJ016,2024-11,2024,11,83682.41,64835.06,-18847.36,-22.52,Health Initiative 16,4,Health,On Hold,Ethiopia,East Africa,Medium
+PROJ016,2024-12,2024,12,83682.41,103768.54,20086.13,24.0,Health Initiative 16,4,Health,On Hold,Ethiopia,East Africa,Medium
+PROJ017,2023-08,2023,8,52950.26,53176.54,226.28,0.43,Education Initiative 17,11,Education,Completed,Nigeria,West Africa,High
+PROJ017,2023-09,2023,9,52950.26,58252.47,5302.21,10.01,Education Initiative 17,11,Education,Completed,Nigeria,West Africa,High
+PROJ017,2023-10,2023,10,52950.26,47428.06,-5522.2,-10.43,Education Initiative 17,11,Education,Completed,Nigeria,West Africa,High
+PROJ017,2023-11,2023,11,52950.26,59215.6,6265.34,11.83,Education Initiative 17,11,Education,Completed,Nigeria,West Africa,High
+PROJ017,2023-12,2023,12,52950.26,54678.95,1728.69,3.26,Education Initiative 17,11,Education,Completed,Nigeria,West Africa,High
+PROJ017,2024-01,2024,1,52950.26,43159.97,-9790.29,-18.49,Education Initiative 17,11,Education,Completed,Nigeria,West Africa,High
+PROJ017,2024-02,2024,2,52950.26,58190.09,5239.83,9.9,Education Initiative 17,11,Education,Completed,Nigeria,West Africa,High
+PROJ017,2024-03,2024,3,52950.26,49110.68,-3839.57,-7.25,Education Initiative 17,11,Education,Completed,Nigeria,West Africa,High
+PROJ017,2024-04,2024,4,52950.26,60833.53,7883.27,14.89,Education Initiative 17,11,Education,Completed,Nigeria,West Africa,High
+PROJ018,2023-10,2023,10,187259.3,150634.46,-36624.85,-19.56,WASH Initiative 18,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ018,2023-11,2023,11,187259.3,195023.66,7764.36,4.15,WASH Initiative 18,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ018,2023-12,2023,12,187259.3,176706.32,-10552.98,-5.64,WASH Initiative 18,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ018,2024-01,2024,1,187259.3,224755.19,37495.89,20.02,WASH Initiative 18,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ018,2024-02,2024,2,187259.3,165223.56,-22035.74,-11.77,WASH Initiative 18,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ018,2024-03,2024,3,187259.3,154696.71,-32562.59,-17.39,WASH Initiative 18,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ018,2024-04,2024,4,187259.3,219365.9,32106.6,17.15,WASH Initiative 18,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ018,2024-05,2024,5,187259.3,199243.33,11984.02,6.4,WASH Initiative 18,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ018,2024-06,2024,6,187259.3,167288.01,-19971.29,-10.67,WASH Initiative 18,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ018,2024-07,2024,7,187259.3,180718.64,-6540.67,-3.49,WASH Initiative 18,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ018,2024-08,2024,8,187259.3,206992.0,19732.7,10.54,WASH Initiative 18,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ018,2024-09,2024,9,187259.3,188514.76,1255.46,0.67,WASH Initiative 18,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ019,2023-07,2023,7,20833.4,24505.1,3671.7,17.62,Health Initiative 19,7,Health,On Hold,Afghanistan,Asia,High
+PROJ019,2023-08,2023,8,20833.4,26581.32,5747.92,27.59,Health Initiative 19,7,Health,On Hold,Afghanistan,Asia,High
+PROJ019,2023-09,2023,9,20833.4,23782.93,2949.53,14.16,Health Initiative 19,7,Health,On Hold,Afghanistan,Asia,High
+PROJ019,2023-10,2023,10,20833.4,22819.04,1985.64,9.53,Health Initiative 19,7,Health,On Hold,Afghanistan,Asia,High
+PROJ019,2023-11,2023,11,20833.4,18130.72,-2702.68,-12.97,Health Initiative 19,7,Health,On Hold,Afghanistan,Asia,High
+PROJ019,2023-12,2023,12,20833.4,22881.58,2048.18,9.83,Health Initiative 19,7,Health,On Hold,Afghanistan,Asia,High
+PROJ019,2024-01,2024,1,20833.4,22324.16,1490.76,7.16,Health Initiative 19,7,Health,On Hold,Afghanistan,Asia,High
+PROJ019,2024-02,2024,2,20833.4,15750.72,-5082.68,-24.4,Health Initiative 19,7,Health,On Hold,Afghanistan,Asia,High
+PROJ019,2024-03,2024,3,20833.4,26483.41,5650.01,27.12,Health Initiative 19,7,Health,On Hold,Afghanistan,Asia,High
+PROJ019,2024-04,2024,4,20833.4,17519.25,-3314.15,-15.91,Health Initiative 19,7,Health,On Hold,Afghanistan,Asia,High
+PROJ019,2024-05,2024,5,20833.4,18463.64,-2369.76,-11.37,Health Initiative 19,7,Health,On Hold,Afghanistan,Asia,High
+PROJ020,2023-02,2023,2,165449.7,195882.15,30432.44,18.39,WASH Initiative 20,1,WASH,Completed,Ukraine,Europe,High
+PROJ020,2023-03,2023,3,165449.7,130442.59,-35007.11,-21.16,WASH Initiative 20,1,WASH,Completed,Ukraine,Europe,High
+PROJ020,2023-04,2023,4,165449.7,120402.42,-45047.28,-27.23,WASH Initiative 20,1,WASH,Completed,Ukraine,Europe,High
+PROJ020,2023-05,2023,5,165449.7,213489.94,48040.24,29.04,WASH Initiative 20,1,WASH,Completed,Ukraine,Europe,High
+PROJ020,2023-06,2023,6,165449.7,176495.85,11046.15,6.68,WASH Initiative 20,1,WASH,Completed,Ukraine,Europe,High
+PROJ020,2023-07,2023,7,165449.7,192102.59,26652.89,16.11,WASH Initiative 20,1,WASH,Completed,Ukraine,Europe,High
+PROJ020,2023-08,2023,8,165449.7,161023.87,-4425.83,-2.68,WASH Initiative 20,1,WASH,Completed,Ukraine,Europe,High
+PROJ020,2023-09,2023,9,165449.7,203781.44,38331.74,23.17,WASH Initiative 20,1,WASH,Completed,Ukraine,Europe,High
+PROJ020,2023-10,2023,10,165449.7,172961.54,7511.84,4.54,WASH Initiative 20,1,WASH,Completed,Ukraine,Europe,High
+PROJ021,2023-11,2023,11,124985.32,141359.34,16374.02,13.1,Livelihoods Initiative 21,7,Livelihoods,On Hold,Afghanistan,Asia,High
+PROJ021,2023-12,2023,12,124985.32,116284.73,-8700.59,-6.96,Livelihoods Initiative 21,7,Livelihoods,On Hold,Afghanistan,Asia,High
+PROJ021,2024-01,2024,1,124985.32,117460.17,-7525.15,-6.02,Livelihoods Initiative 21,7,Livelihoods,On Hold,Afghanistan,Asia,High
+PROJ021,2024-02,2024,2,124985.32,98556.28,-26429.05,-21.15,Livelihoods Initiative 21,7,Livelihoods,On Hold,Afghanistan,Asia,High
+PROJ021,2024-03,2024,3,124985.32,139055.35,14070.03,11.26,Livelihoods Initiative 21,7,Livelihoods,On Hold,Afghanistan,Asia,High
+PROJ021,2024-04,2024,4,124985.32,154431.35,29446.03,23.56,Livelihoods Initiative 21,7,Livelihoods,On Hold,Afghanistan,Asia,High
+PROJ022,2023-09,2023,9,142391.79,173186.05,30794.27,21.63,Protection Initiative 22,8,Protection,Active,Somalia,East Africa,Very High
+PROJ022,2023-10,2023,10,142391.79,175324.03,32932.25,23.13,Protection Initiative 22,8,Protection,Active,Somalia,East Africa,Very High
+PROJ022,2023-11,2023,11,142391.79,166178.65,23786.87,16.71,Protection Initiative 22,8,Protection,Active,Somalia,East Africa,Very High
+PROJ022,2023-12,2023,12,142391.79,118370.96,-24020.83,-16.87,Protection Initiative 22,8,Protection,Active,Somalia,East Africa,Very High
+PROJ022,2024-01,2024,1,142391.79,168373.43,25981.65,18.25,Protection Initiative 22,8,Protection,Active,Somalia,East Africa,Very High
+PROJ022,2024-02,2024,2,142391.79,159129.52,16737.74,11.75,Protection Initiative 22,8,Protection,Active,Somalia,East Africa,Very High
+PROJ022,2024-03,2024,3,142391.79,139363.1,-3028.68,-2.13,Protection Initiative 22,8,Protection,Active,Somalia,East Africa,Very High
+PROJ022,2024-04,2024,4,142391.79,147296.25,4904.47,3.44,Protection Initiative 22,8,Protection,Active,Somalia,East Africa,Very High
+PROJ022,2024-05,2024,5,142391.79,178058.37,35666.58,25.05,Protection Initiative 22,8,Protection,Active,Somalia,East Africa,Very High
+PROJ022,2024-06,2024,6,142391.79,110042.53,-32349.26,-22.72,Protection Initiative 22,8,Protection,Active,Somalia,East Africa,Very High
+PROJ022,2024-07,2024,7,142391.79,111066.09,-31325.7,-22.0,Protection Initiative 22,8,Protection,Active,Somalia,East Africa,Very High
+PROJ022,2024-08,2024,8,142391.79,139371.08,-3020.71,-2.12,Protection Initiative 22,8,Protection,Active,Somalia,East Africa,Very High
+PROJ022,2024-09,2024,9,142391.79,145051.54,2659.75,1.87,Protection Initiative 22,8,Protection,Active,Somalia,East Africa,Very High
+PROJ028,2023-07,2023,7,51763.1,53593.19,1830.09,3.54,Health Initiative 28,2,Health,Active,Syria,Middle East,Very High
+PROJ028,2023-08,2023,8,51763.1,46088.76,-5674.33,-10.96,Health Initiative 28,2,Health,Active,Syria,Middle East,Very High
+PROJ028,2023-09,2023,9,51763.1,59690.62,7927.52,15.32,Health Initiative 28,2,Health,Active,Syria,Middle East,Very High
+PROJ028,2023-10,2023,10,51763.1,49979.55,-1783.55,-3.45,Health Initiative 28,2,Health,Active,Syria,Middle East,Very High
+PROJ028,2023-11,2023,11,51763.1,61546.53,9783.43,18.9,Health Initiative 28,2,Health,Active,Syria,Middle East,Very High
+PROJ028,2023-12,2023,12,51763.1,63938.41,12175.31,23.52,Health Initiative 28,2,Health,Active,Syria,Middle East,Very High
+PROJ028,2024-01,2024,1,51763.1,49487.82,-2275.28,-4.4,Health Initiative 28,2,Health,Active,Syria,Middle East,Very High
+PROJ028,2024-02,2024,2,51763.1,64399.14,12636.04,24.41,Health Initiative 28,2,Health,Active,Syria,Middle East,Very High
+PROJ028,2024-03,2024,3,51763.1,50083.29,-1679.81,-3.25,Health Initiative 28,2,Health,Active,Syria,Middle East,Very High
+PROJ028,2024-04,2024,4,51763.1,41177.27,-10585.83,-20.45,Health Initiative 28,2,Health,Active,Syria,Middle East,Very High
+PROJ028,2024-05,2024,5,51763.1,62990.36,11227.26,21.69,Health Initiative 28,2,Health,Active,Syria,Middle East,Very High
+PROJ028,2024-06,2024,6,51763.1,50212.37,-1550.73,-3.0,Health Initiative 28,2,Health,Active,Syria,Middle East,Very High
+PROJ028,2024-07,2024,7,51763.1,59582.75,7819.65,15.11,Health Initiative 28,2,Health,Active,Syria,Middle East,Very High
+PROJ028,2024-08,2024,8,51763.1,62318.51,10555.41,20.39,Health Initiative 28,2,Health,Active,Syria,Middle East,Very High
+PROJ029,2023-02,2023,2,170388.13,147622.03,-22766.1,-13.36,WASH Initiative 29,10,WASH,On Hold,Colombia,South America,Medium
+PROJ029,2023-03,2023,3,170388.13,198775.63,28387.5,16.66,WASH Initiative 29,10,WASH,On Hold,Colombia,South America,Medium
+PROJ029,2023-04,2023,4,170388.13,168813.44,-1574.69,-0.92,WASH Initiative 29,10,WASH,On Hold,Colombia,South America,Medium
+PROJ029,2023-05,2023,5,170388.13,143730.48,-26657.65,-15.65,WASH Initiative 29,10,WASH,On Hold,Colombia,South America,Medium
+PROJ029,2023-06,2023,6,170388.13,164241.13,-6147.0,-3.61,WASH Initiative 29,10,WASH,On Hold,Colombia,South America,Medium
+PROJ029,2023-07,2023,7,170388.13,192219.43,21831.31,12.81,WASH Initiative 29,10,WASH,On Hold,Colombia,South America,Medium
+PROJ029,2023-08,2023,8,170388.13,143244.64,-27143.49,-15.93,WASH Initiative 29,10,WASH,On Hold,Colombia,South America,Medium
+PROJ030,2023-03,2023,3,197370.87,177931.52,-19439.35,-9.85,WASH Initiative 30,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ030,2023-04,2023,4,197370.87,243914.1,46543.23,23.58,WASH Initiative 30,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ030,2023-05,2023,5,197370.87,147701.82,-49669.05,-25.17,WASH Initiative 30,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ030,2023-06,2023,6,197370.87,156021.36,-41349.51,-20.95,WASH Initiative 30,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ030,2023-07,2023,7,197370.87,183519.62,-13851.26,-7.02,WASH Initiative 30,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ030,2023-08,2023,8,197370.87,156255.2,-41115.68,-20.83,WASH Initiative 30,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ030,2023-09,2023,9,197370.87,163496.45,-33874.42,-17.16,WASH Initiative 30,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ030,2023-10,2023,10,197370.87,187289.31,-10081.56,-5.11,WASH Initiative 30,9,WASH,On Hold,Bangladesh,Asia,Medium
+PROJ031,2023-05,2023,5,200983.18,180589.18,-20394.0,-10.15,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2023-06,2023,6,200983.18,196874.0,-4109.19,-2.04,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2023-07,2023,7,200983.18,148196.84,-52786.34,-26.26,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2023-08,2023,8,200983.18,241126.5,40143.32,19.97,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2023-09,2023,9,200983.18,187655.2,-13327.98,-6.63,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2023-10,2023,10,200983.18,233517.83,32534.65,16.19,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2023-11,2023,11,200983.18,254773.76,53790.58,26.76,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2023-12,2023,12,200983.18,143043.58,-57939.6,-28.83,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2024-01,2024,1,200983.18,246886.54,45903.35,22.84,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2024-02,2024,2,200983.18,210110.67,9127.49,4.54,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2024-03,2024,3,200983.18,198207.17,-2776.01,-1.38,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2024-04,2024,4,200983.18,254373.36,53390.18,26.56,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2024-05,2024,5,200983.18,176697.9,-24285.28,-12.08,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2024-06,2024,6,200983.18,187716.68,-13266.5,-6.6,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2024-07,2024,7,200983.18,248211.2,47228.02,23.5,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2024-08,2024,8,200983.18,241468.67,40485.49,20.14,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2024-09,2024,9,200983.18,205592.2,4609.01,2.29,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2024-10,2024,10,200983.18,229277.68,28294.5,14.08,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2024-11,2024,11,200983.18,237144.26,36161.08,17.99,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ031,2024-12,2024,12,200983.18,248955.22,47972.03,23.87,Protection Initiative 31,3,Protection,On Hold,Yemen,Middle East,High
+PROJ033,2023-11,2023,11,27040.45,26849.48,-190.97,-0.71,Livelihoods Initiative 33,11,Livelihoods,On Hold,Nigeria,West Africa,High
+PROJ033,2023-12,2023,12,27040.45,23356.49,-3683.96,-13.62,Livelihoods Initiative 33,11,Livelihoods,On Hold,Nigeria,West Africa,High
+PROJ033,2024-01,2024,1,27040.45,26807.5,-232.95,-0.86,Livelihoods Initiative 33,11,Livelihoods,On Hold,Nigeria,West Africa,High
+PROJ033,2024-02,2024,2,27040.45,25237.24,-1803.21,-6.67,Livelihoods Initiative 33,11,Livelihoods,On Hold,Nigeria,West Africa,High
+PROJ033,2024-03,2024,3,27040.45,29780.3,2739.85,10.13,Livelihoods Initiative 33,11,Livelihoods,On Hold,Nigeria,West Africa,High
+PROJ033,2024-04,2024,4,27040.45,31877.59,4837.14,17.89,Livelihoods Initiative 33,11,Livelihoods,On Hold,Nigeria,West Africa,High
+PROJ033,2024-05,2024,5,27040.45,30677.63,3637.18,13.45,Livelihoods Initiative 33,11,Livelihoods,On Hold,Nigeria,West Africa,High
+PROJ033,2024-06,2024,6,27040.45,32564.9,5524.46,20.43,Livelihoods Initiative 33,11,Livelihoods,On Hold,Nigeria,West Africa,High
+PROJ033,2024-07,2024,7,27040.45,33847.2,6806.76,25.17,Livelihoods Initiative 33,11,Livelihoods,On Hold,Nigeria,West Africa,High
+PROJ033,2024-08,2024,8,27040.45,34839.81,7799.36,28.84,Livelihoods Initiative 33,11,Livelihoods,On Hold,Nigeria,West Africa,High
+PROJ033,2024-09,2024,9,27040.45,27594.08,553.63,2.05,Livelihoods Initiative 33,11,Livelihoods,On Hold,Nigeria,West Africa,High
+PROJ033,2024-10,2024,10,27040.45,33642.57,6602.12,24.42,Livelihoods Initiative 33,11,Livelihoods,On Hold,Nigeria,West Africa,High
+PROJ033,2024-11,2024,11,27040.45,28531.34,1490.89,5.51,Livelihoods Initiative 33,11,Livelihoods,On Hold,Nigeria,West Africa,High
+PROJ033,2024-12,2024,12,27040.45,29685.0,2644.55,9.78,Livelihoods Initiative 33,11,Livelihoods,On Hold,Nigeria,West Africa,High
+PROJ034,2023-02,2023,2,123449.11,92632.32,-30816.79,-24.96,Emergency Response Initiative 34,4,Emergency Response,Completed,Ethiopia,East Africa,Medium
+PROJ034,2023-03,2023,3,123449.11,118161.49,-5287.61,-4.28,Emergency Response Initiative 34,4,Emergency Response,Completed,Ethiopia,East Africa,Medium
+PROJ034,2023-04,2023,4,123449.11,150621.59,27172.48,22.01,Emergency Response Initiative 34,4,Emergency Response,Completed,Ethiopia,East Africa,Medium
+PROJ034,2023-05,2023,5,123449.11,99874.95,-23574.16,-19.1,Emergency Response Initiative 34,4,Emergency Response,Completed,Ethiopia,East Africa,Medium
+PROJ034,2023-06,2023,6,123449.11,105684.01,-17765.09,-14.39,Emergency Response Initiative 34,4,Emergency Response,Completed,Ethiopia,East Africa,Medium
+PROJ034,2023-07,2023,7,123449.11,110661.21,-12787.9,-10.36,Emergency Response Initiative 34,4,Emergency Response,Completed,Ethiopia,East Africa,Medium
+PROJ034,2023-08,2023,8,123449.11,120093.71,-3355.4,-2.72,Emergency Response Initiative 34,4,Emergency Response,Completed,Ethiopia,East Africa,Medium
+PROJ034,2023-09,2023,9,123449.11,111412.86,-12036.25,-9.75,Emergency Response Initiative 34,4,Emergency Response,Completed,Ethiopia,East Africa,Medium
+PROJ034,2023-10,2023,10,123449.11,151568.84,28119.73,22.78,Emergency Response Initiative 34,4,Emergency Response,Completed,Ethiopia,East Africa,Medium
+PROJ034,2023-11,2023,11,123449.11,107024.69,-16424.41,-13.3,Emergency Response Initiative 34,4,Emergency Response,Completed,Ethiopia,East Africa,Medium
+PROJ034,2023-12,2023,12,123449.11,156869.55,33420.45,27.07,Emergency Response Initiative 34,4,Emergency Response,Completed,Ethiopia,East Africa,Medium
+PROJ034,2024-01,2024,1,123449.11,117639.46,-5809.65,-4.71,Emergency Response Initiative 34,4,Emergency Response,Completed,Ethiopia,East Africa,Medium
+PROJ034,2024-02,2024,2,123449.11,148255.78,24806.67,20.09,Emergency Response Initiative 34,4,Emergency Response,Completed,Ethiopia,East Africa,Medium
+PROJ034,2024-03,2024,3,123449.11,121249.75,-2199.36,-1.78,Emergency Response Initiative 34,4,Emergency Response,Completed,Ethiopia,East Africa,Medium
+PROJ034,2024-04,2024,4,123449.11,141894.2,18445.09,14.94,Emergency Response Initiative 34,4,Emergency Response,Completed,Ethiopia,East Africa,Medium
+PROJ035,2023-02,2023,2,188826.21,138079.42,-50746.79,-26.87,Health Initiative 35,1,Health,Active,Ukraine,Europe,High
+PROJ035,2023-03,2023,3,188826.21,240026.78,51200.57,27.12,Health Initiative 35,1,Health,Active,Ukraine,Europe,High
+PROJ035,2023-04,2023,4,188826.21,157581.76,-31244.45,-16.55,Health Initiative 35,1,Health,Active,Ukraine,Europe,High
+PROJ035,2023-05,2023,5,188826.21,139952.52,-48873.7,-25.88,Health Initiative 35,1,Health,Active,Ukraine,Europe,High
+PROJ035,2023-06,2023,6,188826.21,240634.72,51808.5,27.44,Health Initiative 35,1,Health,Active,Ukraine,Europe,High
+PROJ035,2023-07,2023,7,188826.21,136739.42,-52086.79,-27.58,Health Initiative 35,1,Health,Active,Ukraine,Europe,High
+PROJ037,2023-10,2023,10,52201.51,37512.95,-14688.57,-28.14,WASH Initiative 37,4,WASH,On Hold,Ethiopia,East Africa,Medium
+PROJ037,2023-11,2023,11,52201.51,44286.2,-7915.32,-15.16,WASH Initiative 37,4,WASH,On Hold,Ethiopia,East Africa,Medium
+PROJ037,2023-12,2023,12,52201.51,62826.47,10624.96,20.35,WASH Initiative 37,4,WASH,On Hold,Ethiopia,East Africa,Medium
+PROJ037,2024-01,2024,1,52201.51,56001.86,3800.34,7.28,WASH Initiative 37,4,WASH,On Hold,Ethiopia,East Africa,Medium
+PROJ037,2024-02,2024,2,52201.51,44012.5,-8189.01,-15.69,WASH Initiative 37,4,WASH,On Hold,Ethiopia,East Africa,Medium
+PROJ037,2024-03,2024,3,52201.51,51373.42,-828.09,-1.59,WASH Initiative 37,4,WASH,On Hold,Ethiopia,East Africa,Medium
+PROJ037,2024-04,2024,4,52201.51,40123.84,-12077.67,-23.14,WASH Initiative 37,4,WASH,On Hold,Ethiopia,East Africa,Medium
+PROJ037,2024-05,2024,5,52201.51,66225.67,14024.16,26.87,WASH Initiative 37,4,WASH,On Hold,Ethiopia,East Africa,Medium
+PROJ038,2023-07,2023,7,137998.53,135103.37,-2895.16,-2.1,Emergency Response Initiative 38,8,Emergency Response,Active,Somalia,East Africa,Very High
+PROJ038,2023-08,2023,8,137998.53,117815.72,-20182.81,-14.63,Emergency Response Initiative 38,8,Emergency Response,Active,Somalia,East Africa,Very High
+PROJ038,2023-09,2023,9,137998.53,127143.16,-10855.36,-7.87,Emergency Response Initiative 38,8,Emergency Response,Active,Somalia,East Africa,Very High
+PROJ038,2023-10,2023,10,137998.53,146766.35,8767.82,6.35,Emergency Response Initiative 38,8,Emergency Response,Active,Somalia,East Africa,Very High
+PROJ038,2023-11,2023,11,137998.53,176395.35,38396.83,27.82,Emergency Response Initiative 38,8,Emergency Response,Active,Somalia,East Africa,Very High
+PROJ038,2023-12,2023,12,137998.53,156078.31,18079.79,13.1,Emergency Response Initiative 38,8,Emergency Response,Active,Somalia,East Africa,Very High
+PROJ038,2024-01,2024,1,137998.53,160999.45,23000.92,16.67,Emergency Response Initiative 38,8,Emergency Response,Active,Somalia,East Africa,Very High
+PROJ038,2024-02,2024,2,137998.53,110158.63,-27839.89,-20.17,Emergency Response Initiative 38,8,Emergency Response,Active,Somalia,East Africa,Very High
+PROJ038,2024-03,2024,3,137998.53,122352.72,-15645.81,-11.34,Emergency Response Initiative 38,8,Emergency Response,Active,Somalia,East Africa,Very High
+PROJ038,2024-04,2024,4,137998.53,144513.55,6515.03,4.72,Emergency Response Initiative 38,8,Emergency Response,Active,Somalia,East Africa,Very High
+PROJ038,2024-05,2024,5,137998.53,173510.0,35511.48,25.73,Emergency Response Initiative 38,8,Emergency Response,Active,Somalia,East Africa,Very High
+PROJ039,2023-08,2023,8,140964.77,147375.57,6410.8,4.55,Livelihoods Initiative 39,6,Livelihoods,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ039,2023-09,2023,9,140964.77,175475.16,34510.39,24.48,Livelihoods Initiative 39,6,Livelihoods,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ039,2023-10,2023,10,140964.77,130418.38,-10546.4,-7.48,Livelihoods Initiative 39,6,Livelihoods,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ039,2023-11,2023,11,140964.77,178303.85,37339.08,26.49,Livelihoods Initiative 39,6,Livelihoods,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ039,2023-12,2023,12,140964.77,115449.85,-25514.92,-18.1,Livelihoods Initiative 39,6,Livelihoods,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ039,2024-01,2024,1,140964.77,148754.3,7789.53,5.53,Livelihoods Initiative 39,6,Livelihoods,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ039,2024-02,2024,2,140964.77,168924.14,27959.37,19.83,Livelihoods Initiative 39,6,Livelihoods,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ039,2024-03,2024,3,140964.77,119215.26,-21749.51,-15.43,Livelihoods Initiative 39,6,Livelihoods,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ039,2024-04,2024,4,140964.77,157643.13,16678.36,11.83,Livelihoods Initiative 39,6,Livelihoods,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ039,2024-05,2024,5,140964.77,124182.86,-16781.91,-11.91,Livelihoods Initiative 39,6,Livelihoods,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ039,2024-06,2024,6,140964.77,156549.19,15584.42,11.06,Livelihoods Initiative 39,6,Livelihoods,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ039,2024-07,2024,7,140964.77,166805.98,25841.21,18.33,Livelihoods Initiative 39,6,Livelihoods,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ039,2024-08,2024,8,140964.77,166019.33,25054.56,17.77,Livelihoods Initiative 39,6,Livelihoods,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ039,2024-09,2024,9,140964.77,146541.27,5576.5,3.96,Livelihoods Initiative 39,6,Livelihoods,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ039,2024-10,2024,10,140964.77,102148.92,-38815.85,-27.54,Livelihoods Initiative 39,6,Livelihoods,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ039,2024-11,2024,11,140964.77,143734.33,2769.56,1.96,Livelihoods Initiative 39,6,Livelihoods,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ039,2024-12,2024,12,140964.77,154626.06,13661.29,9.69,Livelihoods Initiative 39,6,Livelihoods,Active,Democratic Republic of Congo,Central Africa,Medium
+PROJ041,2023-05,2023,5,30995.93,22979.58,-8016.35,-25.86,Health Initiative 41,2,Health,On Hold,Syria,Middle East,Very High
+PROJ041,2023-06,2023,6,30995.93,33739.88,2743.94,8.85,Health Initiative 41,2,Health,On Hold,Syria,Middle East,Very High
+PROJ041,2023-07,2023,7,30995.93,21932.45,-9063.48,-29.24,Health Initiative 41,2,Health,On Hold,Syria,Middle East,Very High
+PROJ041,2023-08,2023,8,30995.93,29509.22,-1486.71,-4.8,Health Initiative 41,2,Health,On Hold,Syria,Middle East,Very High
+PROJ041,2023-09,2023,9,30995.93,30813.71,-182.22,-0.59,Health Initiative 41,2,Health,On Hold,Syria,Middle East,Very High
+PROJ041,2023-10,2023,10,30995.93,29759.63,-1236.3,-3.99,Health Initiative 41,2,Health,On Hold,Syria,Middle East,Very High
+PROJ041,2023-11,2023,11,30995.93,28432.97,-2562.97,-8.27,Health Initiative 41,2,Health,On Hold,Syria,Middle East,Very High
+PROJ041,2023-12,2023,12,30995.93,38278.27,7282.34,23.49,Health Initiative 41,2,Health,On Hold,Syria,Middle East,Very High
+PROJ041,2024-01,2024,1,30995.93,30247.18,-748.75,-2.42,Health Initiative 41,2,Health,On Hold,Syria,Middle East,Very High
+PROJ041,2024-02,2024,2,30995.93,24542.41,-6453.52,-20.82,Health Initiative 41,2,Health,On Hold,Syria,Middle East,Very High
+PROJ042,2023-05,2023,5,93479.05,75314.4,-18164.65,-19.43,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2023-06,2023,6,93479.05,94698.77,1219.72,1.3,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2023-07,2023,7,93479.05,101917.82,8438.77,9.03,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2023-08,2023,8,93479.05,99980.28,6501.23,6.95,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2023-09,2023,9,93479.05,117014.33,23535.28,25.18,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2023-10,2023,10,93479.05,108882.98,15403.93,16.48,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2023-11,2023,11,93479.05,91508.91,-1970.14,-2.11,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2023-12,2023,12,93479.05,111748.67,18269.62,19.54,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2024-01,2024,1,93479.05,98665.71,5186.66,5.55,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2024-02,2024,2,93479.05,83512.57,-9966.48,-10.66,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2024-03,2024,3,93479.05,79204.53,-14274.52,-15.27,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2024-04,2024,4,93479.05,117855.87,24376.82,26.08,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2024-05,2024,5,93479.05,81079.7,-12399.35,-13.26,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2024-06,2024,6,93479.05,90719.66,-2759.39,-2.95,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2024-07,2024,7,93479.05,107527.62,14048.57,15.03,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2024-08,2024,8,93479.05,97396.74,3917.69,4.19,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2024-09,2024,9,93479.05,102912.31,9433.26,10.09,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2024-10,2024,10,93479.05,84302.96,-9176.09,-9.82,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2024-11,2024,11,93479.05,93159.72,-319.33,-0.34,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ042,2024-12,2024,12,93479.05,83664.54,-9814.51,-10.5,Health Initiative 42,3,Health,Active,Yemen,Middle East,High
+PROJ043,2023-02,2023,2,201938.81,200430.32,-1508.49,-0.75,WASH Initiative 43,9,WASH,Active,Bangladesh,Asia,Medium
+PROJ043,2023-03,2023,3,201938.81,184348.93,-17589.88,-8.71,WASH Initiative 43,9,WASH,Active,Bangladesh,Asia,Medium
+PROJ043,2023-04,2023,4,201938.81,172659.99,-29278.82,-14.5,WASH Initiative 43,9,WASH,Active,Bangladesh,Asia,Medium
+PROJ043,2023-05,2023,5,201938.81,175241.51,-26697.3,-13.22,WASH Initiative 43,9,WASH,Active,Bangladesh,Asia,Medium
+PROJ043,2023-06,2023,6,201938.81,213589.27,11650.46,5.77,WASH Initiative 43,9,WASH,Active,Bangladesh,Asia,Medium
+PROJ043,2023-07,2023,7,201938.81,247993.87,46055.06,22.81,WASH Initiative 43,9,WASH,Active,Bangladesh,Asia,Medium
+PROJ044,2023-03,2023,3,46168.71,47714.19,1545.48,3.35,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ044,2023-04,2023,4,46168.71,46629.31,460.6,1.0,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ044,2023-05,2023,5,46168.71,37610.6,-8558.12,-18.54,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ044,2023-06,2023,6,46168.71,39003.96,-7164.76,-15.52,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ044,2023-07,2023,7,46168.71,43576.66,-2592.06,-5.61,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ044,2023-08,2023,8,46168.71,47697.16,1528.45,3.31,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ044,2023-09,2023,9,46168.71,38975.37,-7193.35,-15.58,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ044,2023-10,2023,10,46168.71,45506.46,-662.25,-1.43,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ044,2023-11,2023,11,46168.71,52037.01,5868.29,12.71,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ044,2023-12,2023,12,46168.71,44733.09,-1435.63,-3.11,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ044,2024-01,2024,1,46168.71,32795.76,-13372.95,-28.97,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ044,2024-02,2024,2,46168.71,40468.79,-5699.93,-12.35,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ044,2024-03,2024,3,46168.71,43520.51,-2648.21,-5.74,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ044,2024-04,2024,4,46168.71,39057.95,-7110.76,-15.4,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ044,2024-05,2024,5,46168.71,50710.61,4541.89,9.84,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ044,2024-06,2024,6,46168.71,42540.42,-3628.29,-7.86,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ044,2024-07,2024,7,46168.71,47649.98,1481.27,3.21,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ044,2024-08,2024,8,46168.71,41840.6,-4328.11,-9.37,Livelihoods Initiative 44,4,Livelihoods,On Hold,Ethiopia,East Africa,Medium
+PROJ045,2023-01,2023,1,205303.28,266479.32,61176.04,29.8,Livelihoods Initiative 45,7,Livelihoods,Active,Afghanistan,Asia,High
+PROJ045,2023-02,2023,2,205303.28,211510.23,6206.95,3.02,Livelihoods Initiative 45,7,Livelihoods,Active,Afghanistan,Asia,High
+PROJ045,2023-03,2023,3,205303.28,187049.01,-18254.27,-8.89,Livelihoods Initiative 45,7,Livelihoods,Active,Afghanistan,Asia,High
+PROJ045,2023-04,2023,4,205303.28,199605.53,-5697.75,-2.78,Livelihoods Initiative 45,7,Livelihoods,Active,Afghanistan,Asia,High
+PROJ045,2023-05,2023,5,205303.28,181482.72,-23820.56,-11.6,Livelihoods Initiative 45,7,Livelihoods,Active,Afghanistan,Asia,High
+PROJ045,2023-06,2023,6,205303.28,172110.43,-33192.85,-16.17,Livelihoods Initiative 45,7,Livelihoods,Active,Afghanistan,Asia,High
+PROJ045,2023-07,2023,7,205303.28,232561.52,27258.24,13.28,Livelihoods Initiative 45,7,Livelihoods,Active,Afghanistan,Asia,High
+PROJ045,2023-08,2023,8,205303.28,182582.11,-22721.17,-11.07,Livelihoods Initiative 45,7,Livelihoods,Active,Afghanistan,Asia,High
+PROJ045,2023-09,2023,9,205303.28,235221.85,29918.57,14.57,Livelihoods Initiative 45,7,Livelihoods,Active,Afghanistan,Asia,High
+PROJ045,2023-10,2023,10,205303.28,260843.27,55539.99,27.05,Livelihoods Initiative 45,7,Livelihoods,Active,Afghanistan,Asia,High
+PROJ046,2023-08,2023,8,34010.18,37890.68,3880.5,11.41,Livelihoods Initiative 46,5,Livelihoods,On Hold,South Sudan,East Africa,High
+PROJ046,2023-09,2023,9,34010.18,27715.73,-6294.45,-18.51,Livelihoods Initiative 46,5,Livelihoods,On Hold,South Sudan,East Africa,High
+PROJ046,2023-10,2023,10,34010.18,38879.17,4868.99,14.32,Livelihoods Initiative 46,5,Livelihoods,On Hold,South Sudan,East Africa,High
+PROJ046,2023-11,2023,11,34010.18,29449.41,-4560.77,-13.41,Livelihoods Initiative 46,5,Livelihoods,On Hold,South Sudan,East Africa,High
+PROJ046,2023-12,2023,12,34010.18,35838.3,1828.12,5.38,Livelihoods Initiative 46,5,Livelihoods,On Hold,South Sudan,East Africa,High
+PROJ046,2024-01,2024,1,34010.18,39320.01,5309.83,15.61,Livelihoods Initiative 46,5,Livelihoods,On Hold,South Sudan,East Africa,High
+PROJ046,2024-02,2024,2,34010.18,35985.3,1975.12,5.81,Livelihoods Initiative 46,5,Livelihoods,On Hold,South Sudan,East Africa,High
+PROJ046,2024-03,2024,3,34010.18,43815.53,9805.35,28.83,Livelihoods Initiative 46,5,Livelihoods,On Hold,South Sudan,East Africa,High
+PROJ046,2024-04,2024,4,34010.18,40797.83,6787.65,19.96,Livelihoods Initiative 46,5,Livelihoods,On Hold,South Sudan,East Africa,High
+PROJ046,2024-05,2024,5,34010.18,29852.36,-4157.82,-12.23,Livelihoods Initiative 46,5,Livelihoods,On Hold,South Sudan,East Africa,High
+PROJ046,2024-06,2024,6,34010.18,31171.3,-2838.88,-8.35,Livelihoods Initiative 46,5,Livelihoods,On Hold,South Sudan,East Africa,High
+PROJ046,2024-07,2024,7,34010.18,29975.23,-4034.95,-11.86,Livelihoods Initiative 46,5,Livelihoods,On Hold,South Sudan,East Africa,High
+PROJ046,2024-08,2024,8,34010.18,38255.03,4244.85,12.48,Livelihoods Initiative 46,5,Livelihoods,On Hold,South Sudan,East Africa,High
+PROJ046,2024-09,2024,9,34010.18,26390.19,-7619.99,-22.41,Livelihoods Initiative 46,5,Livelihoods,On Hold,South Sudan,East Africa,High
+PROJ047,2023-04,2023,4,156353.29,113717.22,-42636.07,-27.27,Protection Initiative 47,5,Protection,Active,South Sudan,East Africa,High
+PROJ047,2023-05,2023,5,156353.29,114562.5,-41790.79,-26.73,Protection Initiative 47,5,Protection,Active,South Sudan,East Africa,High
+PROJ047,2023-06,2023,6,156353.29,136853.22,-19500.07,-12.47,Protection Initiative 47,5,Protection,Active,South Sudan,East Africa,High
+PROJ047,2023-07,2023,7,156353.29,198014.22,41660.92,26.65,Protection Initiative 47,5,Protection,Active,South Sudan,East Africa,High
+PROJ047,2023-08,2023,8,156353.29,169287.12,12933.82,8.27,Protection Initiative 47,5,Protection,Active,South Sudan,East Africa,High
+PROJ047,2023-09,2023,9,156353.29,180068.23,23714.93,15.17,Protection Initiative 47,5,Protection,Active,South Sudan,East Africa,High
+PROJ048,2023-01,2023,1,13814.75,10520.66,-3294.09,-23.84,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2023-02,2023,2,13814.75,9771.99,-4042.76,-29.26,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2023-03,2023,3,13814.75,12027.17,-1787.58,-12.94,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2023-04,2023,4,13814.75,13638.31,-176.43,-1.28,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2023-05,2023,5,13814.75,12494.38,-1320.36,-9.56,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2023-06,2023,6,13814.75,17673.19,3858.44,27.93,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2023-07,2023,7,13814.75,11763.08,-2051.67,-14.85,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2023-08,2023,8,13814.75,16813.01,2998.27,21.7,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2023-09,2023,9,13814.75,10615.97,-3198.77,-23.15,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2023-10,2023,10,13814.75,10211.94,-3602.8,-26.08,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2023-11,2023,11,13814.75,13746.34,-68.41,-0.5,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2023-12,2023,12,13814.75,14453.16,638.42,4.62,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2024-01,2024,1,13814.75,15360.21,1545.46,11.19,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2024-02,2024,2,13814.75,10927.96,-2886.78,-20.9,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2024-03,2024,3,13814.75,16393.76,2579.01,18.67,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2024-04,2024,4,13814.75,17537.48,3722.73,26.95,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2024-05,2024,5,13814.75,10376.37,-3438.37,-24.89,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2024-06,2024,6,13814.75,11727.54,-2087.21,-15.11,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2024-07,2024,7,13814.75,14296.11,481.36,3.48,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2024-08,2024,8,13814.75,13119.93,-694.82,-5.03,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2024-09,2024,9,13814.75,14611.53,796.78,5.77,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2024-10,2024,10,13814.75,14796.3,981.55,7.11,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2024-11,2024,11,13814.75,16099.93,2285.18,16.54,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ048,2024-12,2024,12,13814.75,12823.22,-991.53,-7.18,Livelihoods Initiative 48,1,Livelihoods,Completed,Ukraine,Europe,High
+PROJ049,2023-02,2023,2,141345.92,175990.18,34644.26,24.51,Emergency Response Initiative 49,9,Emergency Response,Active,Bangladesh,Asia,Medium
+PROJ049,2023-03,2023,3,141345.92,124159.94,-17185.99,-12.16,Emergency Response Initiative 49,9,Emergency Response,Active,Bangladesh,Asia,Medium
+PROJ049,2023-04,2023,4,141345.92,148853.52,7507.6,5.31,Emergency Response Initiative 49,9,Emergency Response,Active,Bangladesh,Asia,Medium
+PROJ049,2023-05,2023,5,141345.92,135310.16,-6035.77,-4.27,Emergency Response Initiative 49,9,Emergency Response,Active,Bangladesh,Asia,Medium
+PROJ049,2023-06,2023,6,141345.92,147166.22,5820.3,4.12,Emergency Response Initiative 49,9,Emergency Response,Active,Bangladesh,Asia,Medium
+PROJ049,2023-07,2023,7,141345.92,104050.13,-37295.79,-26.39,Emergency Response Initiative 49,9,Emergency Response,Active,Bangladesh,Asia,Medium
+PROJ049,2023-08,2023,8,141345.92,180366.62,39020.7,27.61,Emergency Response Initiative 49,9,Emergency Response,Active,Bangladesh,Asia,Medium
+PROJ049,2023-09,2023,9,141345.92,107357.9,-33988.02,-24.05,Emergency Response Initiative 49,9,Emergency Response,Active,Bangladesh,Asia,Medium
+PROJ049,2023-10,2023,10,141345.92,163628.01,22282.09,15.76,Emergency Response Initiative 49,9,Emergency Response,Active,Bangladesh,Asia,Medium
+PROJ049,2023-11,2023,11,141345.92,151990.55,10644.62,7.53,Emergency Response Initiative 49,9,Emergency Response,Active,Bangladesh,Asia,Medium
+PROJ050,2023-07,2023,7,121485.39,104330.15,-17155.23,-14.12,Protection Initiative 50,4,Protection,Completed,Ethiopia,East Africa,Medium
+PROJ050,2023-08,2023,8,121485.39,90957.63,-30527.76,-25.13,Protection Initiative 50,4,Protection,Completed,Ethiopia,East Africa,Medium
+PROJ050,2023-09,2023,9,121485.39,102523.84,-18961.55,-15.61,Protection Initiative 50,4,Protection,Completed,Ethiopia,East Africa,Medium
+PROJ050,2023-10,2023,10,121485.39,125275.17,3789.78,3.12,Protection Initiative 50,4,Protection,Completed,Ethiopia,East Africa,Medium
+PROJ050,2023-11,2023,11,121485.39,96449.63,-25035.76,-20.61,Protection Initiative 50,4,Protection,Completed,Ethiopia,East Africa,Medium
+PROJ050,2023-12,2023,12,121485.39,114817.12,-6668.27,-5.49,Protection Initiative 50,4,Protection,Completed,Ethiopia,East Africa,Medium
+PROJ050,2024-01,2024,1,121485.39,135288.88,13803.5,11.36,Protection Initiative 50,4,Protection,Completed,Ethiopia,East Africa,Medium
+PROJ050,2024-02,2024,2,121485.39,119292.27,-2193.12,-1.81,Protection Initiative 50,4,Protection,Completed,Ethiopia,East Africa,Medium
